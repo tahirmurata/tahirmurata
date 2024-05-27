@@ -1,19 +1,12 @@
 <div align="center">
 
 [![Icon Banner][user_logo_img]][user_url]
-<p align="right">
-  :camera: by <a href="https://unsplash.com/@danesduet">Daniel Olah</a> on <a href="https://unsplash.com/photos/desert-under-blue-sky-during-daytime-6KQETG8J-zI">Unsplash</a>
-</p>
 
-# 
+# Tahir Murata
 
 [![Twitter][twitter_logo_img]][twitter_url]
 [![Github][github_logo_img]][github_url]
 [![Gitlab][gitlab_logo_img]][gitlab_url]
-
-I am a Japanese student developer with over 2 years of experience.
-I am currently working with Golang and Typescript.
-Outside of programming I like to game and take photographs.
 
 </div>
 
@@ -26,7 +19,7 @@ Outside of programming I like to game and take photographs.
 
 <!-- URL -->
 
-[user_url]: https://tahir.sh
+[user_url]: https://unsplash.com/photos/desert-under-blue-sky-during-daytime-6KQETG8J-zI
 [twitter_url]: https://twitter.com/_pastc
 [github_url]: https://github.com/pastc
 [gitlab_url]: https://gitlab.com/paste
