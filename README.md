@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Icon Banner][user_logo_img]][user_url]
+[![Icon Banner][icon_banner_img]][banner_url]
 
 # Tahir Murata
 
@@ -12,14 +12,14 @@
 
 <!-- Image -->
 
-[user_logo_img]: ./readme-banner.jpg
-[twitter_logo_img]: https://flat.badgen.net/badge/twitter/_pastc/black?icon=twitter&label
-[github_logo_img]: https://flat.badgen.net/badge/github/pastc/black?icon=github&label
-[gitlab_logo_img]: https://flat.badgen.net/badge/gitlab/paste/black?icon=gitlab&label
+[icon_banner_img]: ./readme-banner.jpg
+[twitter_logo_img]: https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=X&logoColor=f8fafc
+[github_logo_img]: https://img.shields.io/badge/Github-020617?style=for-the-badge&logo=Github&logoColor=f8fafc
+[gitlab_logo_img]: https://img.shields.io/badge/Gitlab-020617?style=for-the-badge&logo=Gitlab&logoColor=f8fafc
 
 <!-- URL -->
 
-[user_url]: https://unsplash.com/photos/desert-under-blue-sky-during-daytime-6KQETG8J-zI
-[twitter_url]: https://twitter.com/_pastc
+[banner_url]: https://x.com/gracile_jp/status/1785152422660514262
+[twitter_url]: https://x.com/_pastc
 [github_url]: https://github.com/pastc
 [gitlab_url]: https://gitlab.com/paste
