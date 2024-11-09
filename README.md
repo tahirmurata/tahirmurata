@@ -13,9 +13,9 @@
 <!-- Image -->
 
 [icon_banner_img]: ./readme-banner.jpg
-[twitter_logo_img]: https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=X&logoColor=f8fafc
-[github_logo_img]: https://img.shields.io/badge/Github-020617?style=for-the-badge&logo=Github&logoColor=f8fafc
-[gitlab_logo_img]: https://img.shields.io/badge/Gitlab-020617?style=for-the-badge&logo=Gitlab&logoColor=f8fafc
+[twitter_logo_img]: https://img.shields.io/badge/Twitter-26233a?labelColor=191724&logoColor=e0def4&logo=X&style=for-the-badge
+[github_logo_img]: https://img.shields.io/badge/Github-26233a?labelColor=191724&logoColor=e0def4&logo=Github&style=for-the-badge
+[gitlab_logo_img]: https://img.shields.io/badge/Gitlab-26233a?labelColor=191724&logoColor=e0def4&logo=Gitlab&style=for-the-badge
 
 <!-- URL -->
 
