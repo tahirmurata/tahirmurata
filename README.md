@@ -13,9 +13,12 @@
 <!-- Image -->
 
 [icon_banner_img]: ./banner.jpg
-[twitter_logo_img]: https://img.shields.io/badge/Twitter-26233a?labelColor=191724&logoColor=e0def4&logo=X&style=for-the-badge
-[github_logo_img]: https://img.shields.io/badge/Github-26233a?labelColor=191724&logoColor=e0def4&logo=Github&style=for-the-badge
-[gitlab_logo_img]: https://img.shields.io/badge/Gitlab-26233a?labelColor=191724&logoColor=e0def4&logo=Gitlab&style=for-the-badge
+
+<!-- Banner -->
+
+[twitter_logo_img]: https://img.shields.io/badge/twitter-74c7ec?style=for-the-badge&logo=x&logoColor=cdd6f4&labelColor=313244
+[github_logo_img]: https://img.shields.io/badge/github-74c7ec?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=313244
+[gitlab_logo_img]: https://img.shields.io/badge/gitlab-74c7ec?style=for-the-badge&logo=gitlab&logoColor=cdd6f4&labelColor=313244
 
 <!-- URL -->
 
