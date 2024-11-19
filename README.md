@@ -22,7 +22,7 @@
 
 <!-- URL -->
 
-[banner_url]: https://www.pixiv.net/en/artworks/91622666
+[banner_url]: https://www.gracile.jp
 [twitter_url]: https://x.com/_pastc
 [github_url]: https://github.com/pastc
 [gitlab_url]: https://gitlab.com/paste
