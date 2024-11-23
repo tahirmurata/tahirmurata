@@ -23,6 +23,6 @@
 <!-- URL -->
 
 [banner_url]: https://www.gracile.jp
-[twitter_url]: https://x.com/_pastc
-[github_url]: https://github.com/pastc
+[twitter_url]: https://x.com/tahirmurata
+[github_url]: https://github.com/tahirmurata
 [gitlab_url]: https://gitlab.com/paste
