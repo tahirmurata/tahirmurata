@@ -1,7 +1,7 @@
 <div align="center">
 From now on all of my projects will be on GitLab.
 
-[gitlab.com/paste](https://gitlab.com/users/paste/projects)
+これからはGitLabをメインに開発していきます。
 
-[tahirmurata.com](https://tahirmurata.com)
+[gitlab.com/paste](https://gitlab.com/users/paste/projects)
 </div>
